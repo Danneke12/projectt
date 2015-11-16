@@ -1,0 +1,5 @@
+.encoding = "windows-1252"
+cloneOf0 = "Z:\VMWARES\810\Windows 8 - VM10.vmx"
+numCloneOf = "1"
+sentinel0 = "Windows 8 - VM10-cl1.vmdk"
+numSentinels = "1"
